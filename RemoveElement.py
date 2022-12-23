@@ -13,4 +13,4 @@ def removeElement(nums, val):
 
 removeElement([5,2,4,7,1,4,7,8,3], 4)
 
-# we are expect [5, 2, 3, 7, 1, 8, 7, 8, 3]
+# we expect [5, 2, 3, 7, 1, 8, 7, 8, 3]

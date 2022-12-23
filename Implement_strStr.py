@@ -5,3 +5,5 @@ def strStr(haystack, needle):
         return -1
 
 strStr("sadbutsad", "sad")
+
+# must find the first index of needle in haystack string
