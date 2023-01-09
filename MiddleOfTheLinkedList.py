@@ -17,7 +17,7 @@ four.next = five
 head = one
 
 
-def middleNode(head: Optional[ListNode]) -> Optional[ListNode]:
+def middleNode(head):
     slow = head
     fast = head
 
